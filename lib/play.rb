@@ -36,3 +36,22 @@ def turn(board)
 end
 
 # Define your play method below
+def play(board)
+  # no welcome text
+  i = 0
+  while i < 9
+    turn(board)
+    i +=1
+
+  end
+    # turn(board)
+    # turn(board)
+    # turn(board)
+    # turn(board)
+    # turn(board)
+    # turn(board)
+    # turn(board)
+    # turn(board)
+    # turn(board)
+
+end
